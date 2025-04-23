@@ -5,12 +5,12 @@ Este é um projeto CLI básico desenvolvido em Python para monitorar eventos do 
 
 - Monitoramento singular de directório em tempo real com watchdog.
 
-Interface rica no terminal com rich, incluindo tabelas e painéis estilizados.
+- Interface rica no terminal com rich, incluindo tabelas e painéis estilizados.
 
-Modo de filtragem opcional para extensão, tamanho, nome.
+- Modo de filtragem opcional para extensão, tamanho, nome.
 
-Modo log opcional para salvar eventos em um arquivo .log.
+- Modo log opcional para salvar eventos em um arquivo .log.
 
-Suporte a listagem de propriedades de arquivos.
+- Suporte a listagem de propriedades de arquivos.
 
-Extensível e modular — pronto para ser integrado a outros projetos Python (como gerenciadores de arquivos)
+- Extensível e modular — pronto para ser integrado a outros projetos Python (como gerenciadores de arquivos)
